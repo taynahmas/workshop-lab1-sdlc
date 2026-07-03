@@ -5,7 +5,7 @@
   "dependencies": {
     "express": "4.22.2",
     "lodash": "4.17.21",
-    "axios": "0.28.0",
+    "axios": "0.29.0",
     "body-parser": "1.20.5"
   }
 }
